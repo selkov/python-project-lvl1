@@ -1,0 +1,8 @@
+*.log
+*.swp
+*.DS_Store
+*.pyc
+__pycache__/
+.venv/
+dist/
+selkov_brain_games.egg-info/
