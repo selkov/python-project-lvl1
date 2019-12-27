@@ -6,3 +6,5 @@ __pycache__/
 .venv/
 dist/
 selkov_brain_games.egg-info/
+.vscode/
+python-project-lvl1.code-workspace
